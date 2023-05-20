@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.workspace {
+  color: #4021ad;
+}
+
+.dropdown-menu.show {
+  background-color: #c24b4b;
+  border: none;
+}
+
+/* .dropdown-item.show:hover {
+  background-color: #dc3545;
+} */
